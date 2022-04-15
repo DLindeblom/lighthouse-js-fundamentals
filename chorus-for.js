@@ -12,4 +12,4 @@ for (let i = 1; i < 10; i++) {
   
 }
 console.log(solution)
-//printing solution inside the loop shows me all results; outside only final result
+//printing solution inside the loop shows me all results; outside, only final result
